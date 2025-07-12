@@ -1,0 +1,11 @@
+flame_circle:
+  cost: 20
+  type: circle
+  particle: FLAME
+  radius: 3
+  duration: 40
+
+blink:
+  cost: 15
+  type: teleport
+  range: 10

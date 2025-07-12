@@ -1,0 +1,3 @@
+mana:
+  regen: 5 # 1초당 회복량
+  max-default: 100 # 기본 최대 마나

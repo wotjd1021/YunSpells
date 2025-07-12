@@ -1,0 +1,9 @@
+name: YunSpells
+main: yunspells.YunSpells
+version: 1.0
+api-version: 1.20
+commands:
+  ys:
+    description: YunSpells 명령어
+    usage: /<command>
+    aliases: [yunspell]
